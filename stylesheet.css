@@ -1,0 +1,49 @@
+
+			* {
+				font-family:  Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+				color: #Black;
+				text-align: center;
+				
+				}
+			body {
+				width: 90%;
+				margin: 0 auto;
+				background: url("http://s1.picswalls.com/wallpapers/2014/08/08/scottish-landscape-high-definition-wallpaper_015751842_152.jpg") no-repeat center fixed;
+				background-size: cover;
+			}
+				
+			
+			
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+				
+			
+			
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav {
+				background-color: #f2f5f7;
+				opacity: 0.5;
+				padding: 0.5em 0;
+				}
+			#nav a:hover {
+				background: #ddd;
+				color: blue;
+			}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #efefef;}
+			
+			#artifact1 a:hover {
+				background: #ddd;
+				color: blue;
+			}
+			#artifact2 a:hover {
+				background: #ddd;
+				color: blue;
+			}
+			
