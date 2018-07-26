@@ -46,4 +46,12 @@
 				background: #ddd;
 				color: blue;
 			}
+
+			#artifact1 img{
+				border-radius: 50%;
+			}
+			
+			#artifact2 img{
+				border-radius: 50%;
+			}
 			
