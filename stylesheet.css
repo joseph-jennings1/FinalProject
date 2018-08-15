@@ -15,11 +15,15 @@
 			
 			
 			#content {
-				overflow: auto;}
+				overflow: auto;
+				background-color: rgba(0, 0, 255, 0.45);
+   				color: white;
+   				border-radius: 10%; }
+
+
 			#nav, #feature, #footer {
 				margin: 1%;}
 				
-			
 			
 			li {
 				display: inline;
