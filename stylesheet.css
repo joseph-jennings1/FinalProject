@@ -50,6 +50,21 @@
 				color: blue;
 			}
 
+			#artifact3 a:hover {
+				background: #ddd;
+				color: blue;
+			}
+
+			#artifact4 a:hover {
+				background: #ddd;
+				color: blue;
+			}
+
+			#artifact5 a:hover {
+				background: #ddd;
+				color: blue;
+			}
+
 			#artifact1 img{
 				border-radius: 50%;
 			}
