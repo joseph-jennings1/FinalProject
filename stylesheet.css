@@ -1,4 +1,10 @@
-
+			#footer {
+  				position: fixed;
+   				left: 0;
+  				bottom: 0;
+  				width: 100%;
+				text-align: left;}
+				
 			* {
 				font-family:  Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
 				text-align: center;
@@ -73,11 +79,5 @@
 				border-radius: 50%;
 			}
 			
-			#footer {
-  				position: fixed;
-   				left: 0;
-  				bottom: 0;
-  				width: 100%;
-				text-align: left;
-				
+			
 				
